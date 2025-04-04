@@ -11,9 +11,15 @@ Commit - 5 M.5
 
 Commit - 6 M.6 
 
+
 Commit - 8 M.8
 
 Commit - 9 M.9
 
 Commit - 10 M.10
  
+
+commit - 7 D.7
+
+ Resolve all conflicts manually, mark them as resolved with
+hint: "git add/rm <conflicted_files>"
